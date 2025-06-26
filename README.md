@@ -23,8 +23,8 @@ Este é um projeto de agenda de contatos desenvolvido com **Python** e **Django*
 - Django
 - SQLite
 - HTML5, CSS3
-- Bootstrap (opcional)
-- VS Code (recomendado)
+- Bootstrap
+- VS Code
 
 ## 💻 Como rodar o projeto localmente
 
