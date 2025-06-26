@@ -31,5 +31,4 @@ Este é um projeto de agenda de contatos desenvolvido com **Python** e **Django*
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/sua-agenda-django.git
-cd sua-agenda-django
+git clone https://github.com/Caleb-Falcao/agenda-django/
