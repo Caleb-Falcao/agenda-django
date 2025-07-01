@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-^nyj%b8105_1f_e56$3n%6kb92qx)u#-ube&o&15&=mcaru@eh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'agenda-django-ko7v.onrender.com', 'localhost', '127.0.0.1'
+]
 
 
 # Application definition
