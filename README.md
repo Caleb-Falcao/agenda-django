@@ -25,7 +25,8 @@ Este é um projeto de agenda de contatos desenvolvido com **Python** e **Django*
 - HTML5, CSS3
 - Bootstrap
 - VS Code
-
+## ✨ Deploy
+https://agenda-django-r9oz.onrender.com/
 ## 💻 Como rodar o projeto localmente
 
 1. Clone o repositório:
