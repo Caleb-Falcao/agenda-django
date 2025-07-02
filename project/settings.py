@@ -42,6 +42,10 @@ INSTALLED_APPS = [
     'contact',
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://agenda-django-r9oz.onrender.com',
+]
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
